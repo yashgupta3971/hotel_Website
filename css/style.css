@@ -233,6 +233,23 @@ p{
   border-radius: 50%;
 }
 
+/* contact */
+#contact-form .form-grooup {
+  margin-bottom: 20px;
+}
+
+#contact-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+#contact-form input,
+#contact-form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px #ddd solid;
+}
+
 #main-footer {
   text-align: center;
   background: #444;
